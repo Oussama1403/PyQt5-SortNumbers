@@ -3,6 +3,9 @@
 A Simple PyQt5 program to sort numbers in ascending/descending order.It was made for a school assignment and now it is public for beginner PyQt5 devs to learn from it. 
 
 ![screenshot](screenshot.png)
+
+![screenshot2](screenshot2.png)
+
 ### Dependencies
 
 * Python3, PyQt5,PyQt5-tools(for QtDesigner)
