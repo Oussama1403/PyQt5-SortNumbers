@@ -25,5 +25,5 @@ python3 main.py
 ```
 
 ## License
-MIT Free Software.
+MIT Free Software.enjoy!
 
