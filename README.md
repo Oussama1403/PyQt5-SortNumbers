@@ -1,6 +1,6 @@
 # SortNumbers
 
-A Simple PyQt5 program to sort numbers in ascending/descending order.It was made for a school assignment and now it is public for Beginner PyQt5 devs to learn from it. 
+A Simple PyQt5 program to sort numbers in ascending/descending order.It was made for a school assignment and now it is public for beginner PyQt5 devs to learn from it. 
 
 ### Dependencies
 
@@ -8,10 +8,11 @@ A Simple PyQt5 program to sort numbers in ascending/descending order.It was made
 
 ### Installing Libraries
 ```
-pip install PyQt5```
+pip install PyQt5
 
 ```
 pip install pyqt5-tools
+
 ```
 
 
