@@ -9,15 +9,10 @@ A Simple PyQt5 program to sort numbers in ascending/descending order.It was made
 ### Installing Libraries
 ```
 pip install PyQt5
-
 ```
 ```
-
 pip install pyqt5-tools
-
 ```
-
-
 ### Executing program
 
 * After installing all the necessary modules.
